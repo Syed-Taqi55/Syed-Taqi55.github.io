@@ -37,7 +37,7 @@ Visit the live site at: [https://Syed-Taqi55.github.io/](https://Syed-Taqi55.git
 Feel free to reach out if you'd like to connect or collaborate!
 
 - GitHub: [@Syed-Taqi55](https://github.com/Syed-Taqi55)
-- Email: syed.taqi@example.com
+- Email: syedtaqi879@gmail.com
 
 ## License
 
